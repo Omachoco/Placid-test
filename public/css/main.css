@@ -1,0 +1,81 @@
+/* CSS Document */
+html{ 
+	   color:white;
+	   background:white;
+}
+
+body{ 
+	font-family: verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px; line-height: 15px;
+	background:#CCC;
+	margin:0 auto;
+	width:960px;
+	}
+	
+a{ color:#8d0d19;}
+a:hover { color: #1a446c;}
+
+#mainheader{
+	height: 70px;
+	margin: o;
+	padding:0;
+	text-align:center;
+	background: #900;
+	 color: #d4e6f4;
+	}
+#header h1 {
+	padding:1em;
+	margin:auto;
+	  
+	  }
+
+	
+/*navigation*/
+#navigation{
+	float:left;
+	width: 150px; height:100%;
+	margin:0; padding:0 2em;
+	color: #dae6fa; background: #8d0d19;
+     }
+
+#navigation a:hover{ color:#ffffff;}
+
+	
+	}
+
+#login_main{
+	width:350px;
+	margin:auto;
+	margin-top:100px;
+	color:#000;
+	}
+	
+.new_student_form{
+	width:500px;
+	margin:auto;
+	margin-top:60px;
+	background:#FFF;
+	color:#000;
+	}
+	
+.student_table{
+	width:100%;
+	}
+	
+link{
+	text-decoration:none;
+	}
+	
+.error{
+	color:red;
+	}
+	
+.diaplay_errors{
+	margin 10px 0;
+	}
+.mainav{
+	color:white;
+	}	
+.banner{
+	margin:0 auto;
+	}	
